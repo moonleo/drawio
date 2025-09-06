@@ -16,13 +16,13 @@
         <mxCell id="6visbxMU3rmbQB7sgcHr-4" value="网络接口层" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="490" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="6visbxMU3rmbQB7sgcHr-5" value="面向用户的服务：http" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="6visbxMU3rmbQB7sgcHr-5" value="面向用户的服务：http，android在这层" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="520" y="165" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6visbxMU3rmbQB7sgcHr-6" value="端到端通信：tcp、udp" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="520" y="275" width="150" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="6visbxMU3rmbQB7sgcHr-7" value="寻址：ip" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="6visbxMU3rmbQB7sgcHr-7" value="寻址和路由选择：ip" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="525" y="380" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6visbxMU3rmbQB7sgcHr-8" value="传输数据帧：WIFI" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
