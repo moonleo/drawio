@@ -25,6 +25,9 @@
         <mxCell id="6visbxMU3rmbQB7sgcHr-7" value="寻址：ip" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="525" y="380" width="150" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="6visbxMU3rmbQB7sgcHr-8" value="传输数据帧" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="525" y="505" width="150" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
